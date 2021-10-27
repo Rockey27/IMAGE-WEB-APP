@@ -1,0 +1,20 @@
+body{
+    color: aqua;
+    background-color: orangered;
+}
+
+.heading{
+width: 80%;
+font-size: 22px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: white;
+}
